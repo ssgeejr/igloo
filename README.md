@@ -1,2 +1,0 @@
-# igloo
-terraform module testing
